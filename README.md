@@ -1,4 +1,6 @@
-﻿#Coursework on «Diary of sporting achievements» topic performed to consolidate, deepen and generalize
+#Diary of sporting achievements.
+
+Coursework on «Diary of sporting achievements» topic performed to consolidate, deepen and generalize
 knowledge obtained during the study "Organization of databases and knowledge" discipline, the
 implementation of practical skills in the field of modern database management systems with design
 appropriate text, program and illustrations.
